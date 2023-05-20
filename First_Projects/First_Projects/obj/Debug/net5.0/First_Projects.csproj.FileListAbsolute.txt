@@ -1,0 +1,16 @@
+C:\Users\gheir\source\repos\First_Projects\First_Projects\bin\Debug\net5.0\First_Projects.exe
+C:\Users\gheir\source\repos\First_Projects\First_Projects\bin\Debug\net5.0\First_Projects.deps.json
+C:\Users\gheir\source\repos\First_Projects\First_Projects\bin\Debug\net5.0\First_Projects.runtimeconfig.json
+C:\Users\gheir\source\repos\First_Projects\First_Projects\bin\Debug\net5.0\First_Projects.runtimeconfig.dev.json
+C:\Users\gheir\source\repos\First_Projects\First_Projects\bin\Debug\net5.0\First_Projects.dll
+C:\Users\gheir\source\repos\First_Projects\First_Projects\bin\Debug\net5.0\ref\First_Projects.dll
+C:\Users\gheir\source\repos\First_Projects\First_Projects\bin\Debug\net5.0\First_Projects.pdb
+C:\Users\gheir\source\repos\First_Projects\First_Projects\obj\Debug\net5.0\First_Projects.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\First_Projects\First_Projects\obj\Debug\net5.0\First_Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gheir\source\repos\First_Projects\First_Projects\obj\Debug\net5.0\First_Projects.AssemblyInfoInputs.cache
+C:\Users\gheir\source\repos\First_Projects\First_Projects\obj\Debug\net5.0\First_Projects.AssemblyInfo.cs
+C:\Users\gheir\source\repos\First_Projects\First_Projects\obj\Debug\net5.0\First_Projects.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\First_Projects\First_Projects\obj\Debug\net5.0\First_Projects.dll
+C:\Users\gheir\source\repos\First_Projects\First_Projects\obj\Debug\net5.0\ref\First_Projects.dll
+C:\Users\gheir\source\repos\First_Projects\First_Projects\obj\Debug\net5.0\First_Projects.pdb
+C:\Users\gheir\source\repos\First_Projects\First_Projects\obj\Debug\net5.0\First_Projects.genruntimeconfig.cache
